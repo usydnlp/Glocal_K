@@ -21,3 +21,7 @@ Download this repository. As the code format is .ipynb, there are no settings bu
 1. Insert the path of a data directory on the main code by yourself (e.g., '/content/.../data').
 2. Write down a dataset correctly among 'ML-1M', 'ML-100K', and 'Douban' on the main code.
 3. There are no other things to do anymore, just try running the code and see it.
+
+## 5. Data References
+1. Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. Acm transactions on interactive intelligent systems (tiis), 5(4), 1-19.
+2. Monti, F., Bronstein, M. M., & Bresson, X. (2017, December). Geometric matrix completion with recurrent multi-graph neural networks. In Proceedings of the 31st International Conference on Neural Information Processing Systems (pp. 3700-3710).

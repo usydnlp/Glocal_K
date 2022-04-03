@@ -24,9 +24,9 @@ Download this repository. As the code format is .ipynb, there are no settings bu
 
 ## 5. Results
 We evaluated our model GLocal-K on ML-100K, ML-1M and Douban with the metric RMSE, and the results are provided in our paper. In addition, we also tested our model using other metrics MAE and NDCG, which are widely used for rating prediction tasks.
-* [ML-100K] - MAE: 0.6950 / NDCG: 0.9053
-* [ML-1M]   - MAE: 0.6421 / NDCG: 0.9288
-* [Douban]  - MAE: 0.5622 / NDCG: 0.9435
+* [ML-100K] - RMSE: 0.8889 / MAE: 0.6950 / NDCG: 0.9053
+* [ML-1M]   - RMSE: 0.8227 / MAE: 0.6421 / NDCG: 0.9288
+* [Douban]  - RMSE: 0.7208 / MAE: 0.5622 / NDCG: 0.9435
 
 ## 6. Data References
 1. Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. *Acm transactions on interactive intelligent systems (tiis)*, 5(4), 1-19.

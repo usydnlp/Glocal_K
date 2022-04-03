@@ -23,13 +23,10 @@ Download this repository. As the code format is .ipynb, there are no settings bu
 3. There are no other things to do anymore, just try running the code and see it.
 
 ## 5. Results
-We evaluated our model GLocal-K on ML-100K, ML-1M and Douban with the metric RMSE, and the results are provided in our paper. &nbsp;
-In addition, we also tested our model using other metrics MAE and NDCG, which are widely used for rating prediction tasks. &nbsp;
-
+We evaluated our model GLocal-K on ML-100K, ML-1M and Douban with the metric RMSE, and the results are provided in our paper.   In addition, we also tested our model using other metrics MAE and NDCG, which are widely used for rating prediction tasks.
 * ML-100K - MAE 0.6950 / NDCG 0.9053
 * ML-1M   - MAE 0.6421 / NDCG 0.9288
 * DOUBAN  - MAE 0.5622 / NDCG 0.9435
 
 ## 6. Data References
-[1] Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. *Acm transactions on interactive intelligent systems (tiis)*, 5(4), 1-19. &nbsp;
-[2] Monti, F., Bronstein, M. M., & Bresson, X. (2017, December). Geometric matrix completion with recurrent multi-graph neural networks. In *Proceedings of the 31st International Conference on Neural Information Processing Systems* (pp. 3700-3710).
+[1] Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. *Acm transactions on interactive intelligent systems (tiis)*, 5(4), 1-19.   [2] Monti, F., Bronstein, M. M., & Bresson, X. (2017, December). Geometric matrix completion with recurrent multi-graph neural networks. In *Proceedings of the 31st International Conference on Neural Information Processing Systems* (pp. 3700-3710).
